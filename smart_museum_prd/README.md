@@ -49,3 +49,4 @@
 
 ####  功能二：翻译
 ![翻译](https://images.gitee.com/uploads/images/2019/1228/193130_a58c4e57_1648172.png "屏幕截图.png")
+
