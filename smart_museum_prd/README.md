@@ -55,7 +55,7 @@
 ##  使用流程图
 ![博物馆](https://images.gitee.com/uploads/images/2019/1224/170530_b92d400e_1648172.png "屏幕截图.png")
 
-##  原型设计
+##  原型设计/信息设计
 ####  功能一：展品介绍以及寻找
 ![展品介绍与寻找](https://images.gitee.com/uploads/images/2019/1228/192944_999001b2_1648172.png "屏幕截图.png")
 
